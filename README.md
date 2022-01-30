@@ -18,6 +18,8 @@ Fork a copy of the repository and install dependencies by running 'npm install'.
 The application as three main options Home where we can view all the blog posts , compose which is used to write the blog. and contact which contains contact information. we can also delete our blog post, add pictures and edit whenever it is required.
 
 ## Screenshot
+<img width="960" alt="Blog website" src="https://user-images.githubusercontent.com/84373426/151709084-d574f61d-24c4-4929-8d49-0bad16b24aef.png">
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/84373426/151709129-53f70e2f-ae54-4a4f-970d-e6157b328fa9.png">
 
 
 ## Questions
